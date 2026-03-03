@@ -1,5 +1,5 @@
 {
-  "name": "com.fransvanberendonk.fpcc",
+  "name": "com.fransvanberendonk.fpcc-statemachine",
   "version": "1.0.0",
   "displayName": "First Person State Machine",
   "description": "A simple first person character controller that uses State Machines for certain moves.",
@@ -13,3 +13,4 @@
     "com.fransvanberendonk.statemachine": "https://github.com/inxentas/StateMachine.git#main"
   }
 }
+
