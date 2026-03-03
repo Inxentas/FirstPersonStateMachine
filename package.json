@@ -9,10 +9,11 @@
     "email": "frans.van.berendonk@gmail.com"
   },
   "dependencies": {
-    "com.fransvanberendonk.firstperson": "1.0.0",
-    "com.fransvanberendonk.statemachine": "1.0.0"
+    "com.fransvanberendonk.firstperson": "file:../FirstPerson",
+    "com.fransvanberendonk.statemachine": "file:../StateMachine"
   }
 }
+
 
 
 
