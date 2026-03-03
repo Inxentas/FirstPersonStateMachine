@@ -1,0 +1,15 @@
+{
+  "name": "com.fransvanberendonk.fpcc",
+  "version": "1.0.0",
+  "displayName": "First Person State Machine",
+  "description": "A simple first person character controller that uses State Machines for certain moves.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Frans van Berendonk",
+    "email": "frans.van.berendonk@gmail.com"
+  },
+  "dependencies": {
+    "com.fransvanberendonk.firstperson": "https://github.com/yourname/FirstPerson.git#main",
+    "com.fransvanberendonk.statemachine": "https://github.com/yourname/StateMachine.git#main"
+  }
+}
