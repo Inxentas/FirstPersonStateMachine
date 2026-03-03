@@ -9,9 +9,10 @@
     "email": "frans.van.berendonk@gmail.com"
   },
   "dependencies": {
-    "com.fransvanberendonk.firstperson": "https://github.com/Inxentas/FirstPerson.git#1.0.0",
-    "com.fransvanberendonk.statemachine": "https://github.com/Inxentas/StateMachine.git#1.0.0"
+    "com.fransvanberendonk.firstperson": "1.0.0",
+    "com.fransvanberendonk.statemachine": "1.0.0"
   }
 }
+
 
 
